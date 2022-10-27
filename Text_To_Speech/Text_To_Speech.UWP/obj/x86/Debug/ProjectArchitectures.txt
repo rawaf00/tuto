@@ -1,0 +1,1 @@
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech.UWP\Text_To_Speech.UWP.csproj;x86

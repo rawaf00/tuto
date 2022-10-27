@@ -1,0 +1,15 @@
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\Text_To_Speech.csproj.AssemblyReference.cache
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\Text_To_Speech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\bin\Debug\netstandard2.0\Text_To_Speech.deps.json
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\bin\Debug\netstandard2.0\Text_To_Speech.dll
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\bin\Debug\netstandard2.0\ref\Text_To_Speech.dll
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\bin\Debug\netstandard2.0\Text_To_Speech.pdb
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\Text_To_Speech.AssemblyInfoInputs.cache
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\Text_To_Speech.AssemblyInfo.cs
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\Text_To_Speech.csproj.CoreCompileInputs.cache
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\Text_To_Speech.dll
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\ref\Text_To_Speech.dll
+C:\Users\rawaf al rawaf\source\repos\Text_To_Speech\Text_To_Speech\Text_To_Speech\obj\Debug\netstandard2.0\Text_To_Speech.pdb
